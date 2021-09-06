@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on [Flimsy Timer](https://github.com/mrfellox/flimsy-timer)
-#### I've learned Python from [Corey Schafer](https://github.com/CoreyMSchafer) and some frameworks with [John Elder](https://github.com/flatplanet) huge shout-out to them! ♥
+### About me
+
+I like coding and those type of things.
+
+#### Languages
+- Python
