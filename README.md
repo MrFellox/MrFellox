@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jorge Hernández</h1>
 <h3 align="center">Self-taught programmer</h3>
 
-- 🔭 I’m currently working on **PyVault**
+- 🔭 I’m currently working on **[Flimsy Timer](https://github.com/mrfellox/flimsy-timer)**
 
 - 🌱 I’m currently learning **JavaScript, React and NextJs**
 
